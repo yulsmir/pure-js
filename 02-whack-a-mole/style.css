@@ -1,7 +1,8 @@
 .square {
     width: 200px;
     height: 200px;
-    border: solid black ;
+    border: solid black;
+    background: aquamarine;
 }
 
 .grid {
