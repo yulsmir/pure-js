@@ -1,7 +1,23 @@
 {
-  "name": "pure-js",
+  "name": "pure",
+  "version": "1.0.0",
+  "description": "This is a folder with my educational games made with pure Javascript",
   "main": "server.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yulsmir/pure-js.git"
+  },
+  "author": "Yuliia Smirnova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yulsmir/pure-js/issues"
+  },
+  "homepage": "https://github.com/yulsmir/pure-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
