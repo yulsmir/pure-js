@@ -1,0 +1,7 @@
+{
+  "name": "pure-js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
